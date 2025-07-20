@@ -1,21 +1,4 @@
 # 💳 Stripe Payment Integration - ASP.NET Core MVC
----
-COMPANY: CODTECH IT SOLUTIONS
----
-NAME: Pranav Bhimani
----
-
-INTERN ID: CT04DM1485
----
-
-DOMAIN: .Net 
----
-
-DURATION: 4 WEEEKS
----
-
-MENTOR: VAISHALI
----
 
 A comprehensive demo project showcasing **Stripe payment gateway integration** with **ASP.NET Core MVC**. Features dynamic pricing, INR currency support, and a clean Bootstrap UI - all running in **test mode** for safe development and learning.
 
